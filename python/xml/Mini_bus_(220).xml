@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>Mini_bus_(220).jpg</filename>
+	<path>D:\python\image\Mini_bus_(220).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1035</width>
+		<height>755</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mini_bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>96</ymin>
+			<xmax>788</xmax>
+			<ymax>713</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>bus_(5).jpg</filename>
+	<path>D:\python\image\bus_(5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1030</width>
+		<height>741</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BUS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>116</ymin>
+			<xmax>826</xmax>
+			<ymax>664</ymax>
+		</bndbox>
+	</object>
+</annotation>

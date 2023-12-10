@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>NMV_(61).jpg</filename>
+	<path>D:\python\image\NMV_(61).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MNV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>2</ymin>
+			<xmax>488</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>car_(166).jpg</filename>
+	<path>D:\python\image\car_(166).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>894</width>
+		<height>646</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>106</ymin>
+			<xmax>716</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>

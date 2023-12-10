@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>SUV_(72).jpg</filename>
+	<path>D:\python\image\SUV_(72).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1076</width>
+		<height>765</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SUV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>153</ymin>
+			<xmax>841</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>

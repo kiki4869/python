@@ -1,0 +1,14 @@
+train: D:/python/paper_data/train.txt
+val: D:/python/paper_data/val.txt
+
+
+nc: 6
+
+names: 
+ 0: BUS
+ 1: Car
+ 2: Mini_bus
+ 3: NMV
+ 4: SUV
+ 5: Truck
+
